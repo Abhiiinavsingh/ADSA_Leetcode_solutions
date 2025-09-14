@@ -1,69 +1,52 @@
-# 🧠 LeetCode Solutions 
+# 🧩 My LeetCode Solutions  
+
+Welcome to my **LeetCode Solutions Repository**! 🎯  
+This repo contains **all my solved LeetCode problems**, neatly organized by category and directly linked to **my submissions** so you can see my runtime, memory usage, and exact solution code.  
 
 ---
 
-## 📌 Sliding Window / Prefix Sum
+## 📚 What's Inside
 
-- [209. Minimum Size Subarray Sum](https://leetcode.com/submissions/detail/1770083287/)
-- [724. Find Pivot Index](http://leetcode.com/submissions/detail/1761371191/)
-- [643. Maximum Average Subarray I](https://leetcode.com/submissions/detail/1761835454/)
-
----
-
-## 📌 Binary Search / Math
-
-- [50. Pow(x, n)](https://leetcode.com/submissions/detail/1767522589/)
-- [33. Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1719441678/)
-- [69. Sqrt(x)](https://leetcode.com/submissions/detail/1719435108/)
-- [162. Find Peak Element](https://leetcode.com/submissions/detail/1717288165/)
+- 📌 **Categorized Solutions** – Sliding Window, Binary Search, String Manipulation, and more  
+- 🔗 **Direct Submission Links** – Jump straight to the solution page on LeetCode  
+- 🧠 **Growing Collection** – I keep solving and adding more problems regularly  
 
 ---
 
-## 📌 Math / Sieve of Eratosthenes
+---
 
-- [204. Count Primes](https://leetcode.com/submissions/detail/1763683349/)
+## 🎯 Goal
+
+- 🚀 Build a strong foundation for **DSA & problem solving**
+- 📈 Practice consistently & track progress
+- 🤝 Help others by sharing categorized problems and solutions
 
 ---
 
-## 📌 Simulation / Prefix Sum
+## ✨ How to Use
 
-- [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/submissions/detail/1759279010/)
-
----
-
-## 📌 String / Pattern Matching
-
-- [890. Find and Replace Pattern](https://leetcode.com/submissions/detail/1759219782/)
-- [791. Custom Sort String](https://leetcode.com/submissions/detail/1759179962/)
-- [2325. Decode the Message](https://leetcode.com/submissions/detail/1757424314/)
-- [242. Valid Anagram](https://leetcode.com/submissions/detail/1750513265/)
+1. Open [`LeetCode.md`](./LeetCode.md)
+2. Browse by category 🏷️
+3. Click any problem name to view my exact **LeetCode submission page**
 
 ---
 
-## 📌 String / Palindrome & Substring Problems
+## 🌱 Contributions & Feedback
 
-- [647. Palindromic Substrings](https://leetcode.com/submissions/detail/1755062122/)
-- [680. Valid Palindrome II](https://leetcode.com/submissions/detail/1752298570/)
-- [125. Valid Palindrome](https://leetcode.com/submissions/detail/1750604009/)
-
----
-
-## 📌 String Manipulation
-
-- [709. To Lower Case](https://leetcode.com/submissions/detail/1750608311/)
-- [1910. Remove All Occurrences of a Substring](https://leetcode.com/submissions/detail/1750580819/)
-- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/submissions/detail/1750573423/)
-- [27. Remove Element](https://leetcode.com/submissions/detail/1747348014/)
+This is a personal repository but if you find a mistake or want to suggest a better solution, feel free to:
+- Open an **Issue** 📝
+- Start a **Discussion** 💬
+- Share your thoughts with a PR 🔧
 
 ---
 
-## 📌 Array / Two-Pointer
+## ☕ Support
 
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1759179962/)
+If you find this helpful, consider giving this repo a ⭐ on GitHub.  
+Let's keep solving and growing together! 🧠🔥  
 
 ---
 
-## 📌 Math / Bit Manipulation / Division
+> 💡 *"Consistency is the key to mastering DSA — one problem at a time."*
 
-- [7. Reverse Integer](https://leetcode.com/submissions/detail/1718297391/)
-- [29. Divide Two Integers](https://leetcode.com/submissions/detail/1718270775/)
+
